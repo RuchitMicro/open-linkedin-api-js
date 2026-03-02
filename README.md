@@ -5,11 +5,15 @@
 
 <br>
 
-**Created by [Ruchit Kharwa](https://wolfx.io) · [WOLFx Digital](https://wolfx.io)**
+**Created by [Ruchit](https://wolfx.io) · [WOLFx Digital](https://wolfx.io)**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Zero Dependencies](https://img.shields.io/badge/dependencies-0-blue.svg)]()
+
+> [!IMPORTANT]
+> This library is not officially supported by LinkedIn. Using this library might violate LinkedIn's Terms of Service. Use it at your own risk.
+
 
 ---
 
@@ -369,7 +373,7 @@ These rules exist to keep the codebase clean, safe, and maintainable.
 
 | Name | Role | Links |
 |---|---|---|
-| Ruchit Kharwa | Creator & Lead Maintainer | [wolfx.io](https://wolfx.io) |
+| Ruchit| Creator & Lead Maintainer | [wolfx.io](https://wolfx.io) |
 
 Built with ❤️ by **[WOLFx Digital](https://wolfx.io)**
 
@@ -377,6 +381,6 @@ Built with ❤️ by **[WOLFx Digital](https://wolfx.io)**
 
 ## License
 
-MIT © [Ruchit Kharwa](https://wolfx.io) / [WOLFx Digital](https://wolfx.io)
+MIT © [Ruchit](https://wolfx.io) / [WOLFx Digital](https://wolfx.io)
 
 See [LICENSE](LICENSE) for full text.# open-linkedin-api-js
